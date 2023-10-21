@@ -1,3 +1,3 @@
 # demo
 demo project,
-Author- Parth gupta
+Author- Parth gupta (Parthose)
